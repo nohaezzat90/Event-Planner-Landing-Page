@@ -1,5 +1,7 @@
 {
   "name": "lab3_eventplanner",
+  "homepage" : "https://nohaezzat90.github.io/event-planner-landing-page/",
+
   "private": true,
   "version": "0.0.0",
   "type": "module",
